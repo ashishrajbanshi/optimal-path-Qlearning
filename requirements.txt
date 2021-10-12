@@ -1,0 +1,18 @@
+﻿The dependencies for running the project are:
+* Numpy (version==1.21.0)
+* Matplotlib.pyplot (version = 3.4.2)
+* Networkx (version == 2.5)
+* Osmnx (version==1.1.1)
+
+
+We have used Anaconda to install these dependencies:
+1. Anaconda can be downloaded from : (Installing on Windows — Anaconda documentation)
+2. conda config --prepend channels conda-forge
+3. conda create -n ox --strict-channel-priority osmnx 
+4. conda install numpy 
+5. conda install -c conda-forge networkx=2.5
+6. conda install -c conda-forge matplotlib 
+
+
+After running the above commands in terminal a new environment name ox is created.
+We install all the other libraries in this environment.
