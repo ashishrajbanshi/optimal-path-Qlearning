@@ -6,8 +6,12 @@ agent what action is to be taken under which circumstance. It does not require a
 of the environment (hence "model-free"), and it can handle problems with stochastic
 transitions and rewards without requiring adaptations.
 
-#visual representaion of nodes and location
+# visual representaion of nodes and location
 Using the networkx library we designed the nodes and **matplotlib**.
 **pyplot** is used to plot the nodes and edges
 ![map](map.png)
+
+Suppose we want to find optimal path between *L1* and *L7*.
+The output is ['L1', 'L6', 'L9', 'L15', 'L4', 'L7'] which is shown in the figure below:
+![map](/optimal path/optimal_path.png)
 
