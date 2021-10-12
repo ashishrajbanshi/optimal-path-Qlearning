@@ -13,5 +13,5 @@ Using the networkx library we designed the nodes and **matplotlib**.
 
 Suppose we want to find optimal path between *L1* and *L7*.
 The output is ['L1', 'L6', 'L9', 'L15', 'L4', 'L7'] which is shown in the figure below:
-![map](/optimal path/optimal_path.png)
+![map](optimal path/optimal_path.png)
 
