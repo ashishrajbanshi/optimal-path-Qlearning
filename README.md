@@ -5,3 +5,9 @@ reinforcement learning algorithm, aimed to learn the quality of actions and tell
 agent what action is to be taken under which circumstance. It does not require a model
 of the environment (hence "model-free"), and it can handle problems with stochastic
 transitions and rewards without requiring adaptations.
+
+#visual representaion of nodes and location
+Using the networkx library we designed the nodes and **matplotlib**.
+**pyplot** is used to plot the nodes and edges
+![Image](/home/qrakken/project/project/optimal path/map.png)
+
