@@ -9,5 +9,5 @@ transitions and rewards without requiring adaptations.
 #visual representaion of nodes and location
 Using the networkx library we designed the nodes and **matplotlib**.
 **pyplot** is used to plot the nodes and edges
-![Image](/home/qrakken/project/project/optimal path/map.png)
+![map](map.png)
 
